@@ -1,13 +1,9 @@
 package com.saiyaemon.algorithm.sort;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.concurrent.ConcurrentHashMap;
-
 /**
  * 希尔排序（最小增量排序）
  */
-public class shellSort {
+public class SHellSort {
 
     public static void main(String[] args) {
         int[] sorted = {52, 23, 18, 6, 11, 9, 7, 3, 14, 21, 42, 17, 32, 15};

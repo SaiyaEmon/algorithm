@@ -3,7 +3,7 @@ package com.saiyaemon.algorithm.sort;
 /**
  * 选择排序
  */
-public class selectSort {
+public class SelectSort {
 
     public static void main(String args[]) {
         int[] sorted = {4, 5, 2, 8, 6, 1, 9, 7, 3, 14, 21, 42, 17, 32, 15};

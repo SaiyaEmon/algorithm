@@ -6,7 +6,7 @@ package com.saiyaemon.algorithm.sort;
  * @author SaiyaEmon
  * 2017-08-21 14:37
  **/
-public class fastSort {
+public class FastSort {
     public static void main(String[] args) {
         int[] sorted = {32, 23, 18, 6, 41, 29, 27, 3, 14, 21, 42, 17, 22, 15};
         recurrenceSort(sorted, 0, sorted.length-1);

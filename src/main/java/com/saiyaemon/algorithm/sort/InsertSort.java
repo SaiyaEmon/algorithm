@@ -3,7 +3,7 @@ package com.saiyaemon.algorithm.sort;
 /**
  * 直接插入排序
  */
-public class insertSort {
+public class InsertSort {
     public static void main(String[] args) {
         int[] sorted = {4, 5, 2, 8, 7, 6, 1, 9, 3, 14, 21, 42, 17, 32, 15};
         for (int i = 1; i < sorted.length; i++) {

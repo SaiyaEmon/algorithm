@@ -3,7 +3,7 @@ package com.saiyaemon.algorithm.sort;
 /**
  * 冒泡排序
  */
-public class bubbleSort {
+public class BubbleSort {
     public static void main(String[] args) {
         int[] sorted = {44, 52, 23, 18, 6, 11, 9, 7, 3, 14, 21, 42, 17, 32, 15};
         for (int i = 0; i < sorted.length - 1; i++) {
